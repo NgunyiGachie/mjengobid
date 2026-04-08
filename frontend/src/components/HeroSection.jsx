@@ -9,7 +9,6 @@ function HeroSection() {
           <Clock className="h-4 w-4" />
           <span>48-hour turnaround time</span>
         </div>
-
         <h1 className="max-w-3xl text-5xl font-semibold tracking-tight text-neutral-900 md:text-7xl">
           Get a Professional Bill Of Quantities in 48 Hours
         </h1>

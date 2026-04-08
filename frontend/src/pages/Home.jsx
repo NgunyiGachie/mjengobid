@@ -1,11 +1,11 @@
 import HeroSection from "../components/HeroSection";
-import CompletedProjectsPreview from "../components/CompletedProjectsPreview";
+import CompletedProjectsSection from "../components/CompletedProjectsSection";
 
 function Home() {
   return (
     <>
       <HeroSection />
-      <CompletedProjectsPreview />
+      <CompletedProjectsSection />
     </>
   );
 }
